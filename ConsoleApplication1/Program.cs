@@ -16,7 +16,8 @@ namespace ConsoleApplication1
                 Console.WriteLine("0. Exit");
                 Console.WriteLine("1. add");
                 Console.WriteLine("2. DIFF");
-              
+                Console.WriteLine("3. MULL");
+
                 if (menuOption == 0) {
                     break;
                 }
